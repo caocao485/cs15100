@@ -96,3 +96,7 @@
 19. match：== **相等扩展**
 
 https://blog.csdn.net/yeswenqian/article/details/22291675
+
+boxOf
+
+cast
